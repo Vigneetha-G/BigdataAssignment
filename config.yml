@@ -1,0 +1,6 @@
+redis:
+  host: 'redis-13200.c322.us-east-1-2.ec2.cloud.redislabs.com'
+  db: 0
+  user: default
+  password: 'KoythP6vsxOpCxcrej7GfI5bxEdlJ8QC'
+  port: 13200 
