@@ -1,6 +1,6 @@
 redis:
-  host: 'redis-13200.c322.us-east-1-2.ec2.cloud.redislabs.com'
+  host: your_host_name
   db: 0
   user: default
-  password: 'KoythP6vsxOpCxcrej7GfI5bxEdlJ8QC'
-  port: 13200 
+  password: your_user_password
+  port: your_server_port 
